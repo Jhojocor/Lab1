@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Jhojocor/Lab1#readme",
   "dependencies": {
-    "make-random": "^3.0.2"
+    "make-random": "^3.0.2",
+    "popular-movie-quotes": "^1.2.4"
   },
   "devDependencies": {
     "serve": "^14.2.0"
